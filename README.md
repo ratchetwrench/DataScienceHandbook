@@ -1,17 +1,4 @@
-# Python Data Science Handbook
-
-This repository contains the entire [Python Data Science Handbook](http://shop.oreilly.com/product/0636920034919.do), in the form of (free!) Jupyter notebooks.
-
-![cover image](notebooks/figures/PDSH-cover.png)
-
-The book was written and tested with Python 3.5, though older Python versions (including Python 2.7) should work in nearly all cases.
-
-The book introduces the core libraries essential for working with data in Python: particularly [IPython](http://ipython.org), [NumPy](http://numpy.org), [Pandas](http://pandas.pydata.org), [Matplotlib](http://matplotlib.org), [Scikit-Learn](http://scikit-learn.org), and related packages.
-Familiarity with Python as a language is assumed; if you need a quick introduction to the language itself, see the free companion project,
-[A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython): it's a fast-paced introduction to the Python language aimed at researchers and scientists.
-
-The following listing links to the notebooks in this repository, rendered through the [nbviewer](http://nbviewer.jupyter.org) service:
-
+# Data Science Handbook
 ---
 ## [Table of Contents](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
 
